@@ -1,1 +1,1 @@
-# [cfx.lu](https://www.cfx.lu)
+# [cfx.lu](www.cfx.lu)

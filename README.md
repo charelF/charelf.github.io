@@ -4,6 +4,10 @@
 
 # [cfx.lu](https://cfx.lu)
 
+<p align="center">
+  <img src="cfx.png" width="200" />
+ </p>
+
 ## Projects
 
 - RemindMe - Reminders App in SwiftUI: [cfx.lu/remindme](https://cfx.lu/remindme)

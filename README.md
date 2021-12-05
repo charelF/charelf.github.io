@@ -4,11 +4,9 @@
 
 # [cfx.lu](https://cfx.lu)
 
-# Projects
+## Projects
 
-### RemindMe App: [cfx.lu/remindme](https://cfx.lu/remindme)
-
-### Large Scale Data Engineering: [cfx.lu/lsde](https://cfx.lu/lsde)
-
-[Page Source](https://github.com/charelF/charelf.github.io)
+- RemindMe - Reminders App in SwiftUI: [cfx.lu/remindme](https://cfx.lu/remindme)
+- Large Scale Data Engineering: [cfx.lu/lsde](https://cfx.lu/lsde)
+- Bass de Cool? [cfx.lu/bassdecool](https://cfx.lu/bassdecool)
 

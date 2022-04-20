@@ -6,7 +6,13 @@
 
 <p align="center">
   <img src="cfx.png" width="200" />
- </p>
+</p>
+
+## 🚧 Website work in progress 🚧
+
+
+ 
+- About me: [cfx.lu/cv](https://cfx.lu/cv)
 
 ## Projects
 

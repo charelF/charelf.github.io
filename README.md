@@ -12,7 +12,7 @@
 
 
  
-- About me: [cfx.lu/cv](https://cfx.lu/cv)
+- Contact me: c [at] cfx [dot] lu
 
 ## Projects
 

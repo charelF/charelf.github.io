@@ -12,7 +12,7 @@
 
 
  
-- Contact me: c [at] cfx [dot] lu
+- Contact me at: c [at] cfx [dot] lu
 
 ## Projects
 

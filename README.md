@@ -16,7 +16,8 @@
 
 ## Projects
 
-- RemindMe - Reminders App in SwiftUI: [cfx.lu/remindme](https://cfx.lu/remindme)
+- RemindMe Reminders: [cfx.lu/remindme](https://cfx.lu/remindme)
+- StickerPaste: [cfx.lu/stickerpaste](https://cfx.lu/stickerpaste)
 - Masters Thesis: [cfx.lu/thesis](https://cfx.lu/thesis)
 - Large Scale Data Engineering: [cfx.lu/lsde](https://cfx.lu/lsde)
 

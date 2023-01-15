@@ -1,28 +1,20 @@
-<!-- abc -->
+# cfx.lu
 
-<!-- ![logo](cfx_desktop_wp.png) -->
+Charel Felten
 
-# [cfx.lu](https://cfx.lu)
-
-<p align="center">
-  <img src="cfx.png" width="200" />
-</p>
-
-## 🚧 Website work in progress 🚧
+Email: c [at] cfx [dot] lu
 
 
- 
-- Contact me at: c [at] cfx [dot] lu
+## Blog
 
 ## Projects
 
-- RemindMe Reminders: [cfx.lu/remindme](https://cfx.lu/remindme)
-- StickerPaste: [cfx.lu/stickerpaste](https://cfx.lu/stickerpaste)
-- Masters Thesis: [cfx.lu/thesis](https://cfx.lu/thesis)
-- Large Scale Data Engineering: [cfx.lu/lsde](https://cfx.lu/lsde)
+- [**RemindMe:**](https://cfx.lu/remindme) Minimalistic note-taking app developed in SwiftUI.
+- [**StickerPaste:**](https://cfx.lu/stickerpaste) Minimalistic sticker collage app developed in SwiftUI.
+- [**GOPACS:**](https://cfx.lu/thesis) *"Investigation, simulation and real options valuation of the GOPACS flexibility market"* - My master thesis written in for the obtention of my Masters Degree in Computational Science from the University of Amsterdam in 2022
+- [**Large Scale Data Engineering:**](https://cfx.lu/lsde) Visualisation of some interesting information-theory related statistics inferred from the Wikimedia pageviews dataset. This website was part of the deliverable for the course "Large-scale data engineering" at the Vrije Universiteit; the aim was to try and see if we can detect DDOS attacks on Wikimedia with the help of potential artefacts left in the pageviews dataset.
 
 ## Fun
 
-- Bass de Cool? [cfx.lu/bassdecool](https://cfx.lu/bassdecool)
-- Hungry? [cfx.lu/recipes](https://cfx.lu/recipes)
-
+- [**Cool?**](https://cfx.lu/bassdecool)
+- [**Hungry?**](https://cfx.lu/recipes)

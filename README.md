@@ -1,11 +1,8 @@
-# cfx.lu
-
-Charel Felten
-
-Email: c [at] cfx [dot] lu
+# **CFX**
 
 
-## Blog
+**Charel Felten** - **c[at]cfx[dot]lu** - [**CFX**](https://cfx.lu) - [**GitHub**](https://github.com/charelf) - [**StackOverflow**](https://stackoverflow.com/users/9439097/charelf)
+
 
 ## Projects
 
